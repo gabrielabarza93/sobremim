@@ -1,0 +1,95 @@
+body{
+  background-color: rgb(249, 237, 220);}
+
+h1 {
+  color: rgb(90, 40, 137); 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+p{
+  font-size: 23px;
+  text-align: justify;
+  font-family: monospace;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h2{
+  color: rgb(90, 40, 137); 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+ul li{
+  list-style-type:circle;
+  margin-bottom: 08px;
+  font-size: 19px;
+  font-family: monospace;
+  text-align: start;
+  
+}
+
+#hobbies{
+  border-radius: 20px;
+  border: 2px groove rgb(90, 40, 137);
+  width: 200px;
+  height: 230px;
+  object-fit: fill;
+}
+
+th{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  color:rgb(90, 40, 137);
+}
+
+td{
+  text-align: center;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background-color: #e8cccc73;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#tabelaimg{
+  border-radius: 20px;
+  size: 60px;
+  border: 2px groove rgb(90, 40, 137);
+}
+
+a{
+  color: rgb(90, 40, 137); 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+a:hover{
+  color: aqua;
+}
+
+#botao{
+  color: rgb(90, 40, 137); 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 15px;  
+}
